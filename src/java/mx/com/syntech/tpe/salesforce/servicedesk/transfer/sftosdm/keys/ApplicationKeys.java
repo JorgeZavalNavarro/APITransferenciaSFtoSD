@@ -11,6 +11,6 @@ public class ApplicationKeys {
     public static final String FORMAT_FECHA_HORA_ARCHIVO = "yyyyMMdd_HHmmssSSS";
     
     // Llaves principales de la aplicación
-    public static final String KEY_ARCHIVO_CONFIGURACION = "C:\\APIs\\APIIntegracionDBPtoSDMWeb\\Config\\APIIntegracionDBPtoSDMWebConfig.properties";
+    public static final String KEY_ARCHIVO_CONFIGURACION = "C:\\APIs\\APITransferenciaSFtoSD\\Config\\APITransferenciaSFtoSDConfig.properties";
 
 }
